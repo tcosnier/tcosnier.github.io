@@ -128,6 +128,40 @@ ul {
 
 }
 
+.button {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+	float: right;
+	height: 38px;
+	padding: 0 15px;
+	margin: 0 15px;
+	border: transparent 1px solid;
+	color: #9EABB3;
+	text-align: center;
+	font-size: 12px;
+	text-transform: uppercase;
+	line-height: 35px;
+	border-radius: 3px;
+	background: rgba(0,0,0,0.1);
+	transition: all ease 0.3s;
+}
+
+.main-nav.overlay .button {
+	border-color: rgba(255,255,255,0.6);
+}
+
+.no-cover .button {
+	background: none;
+	
+	&:hover {
+		border-color: #bfc8cd;
+		color: #9EABB3;
+	}
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
