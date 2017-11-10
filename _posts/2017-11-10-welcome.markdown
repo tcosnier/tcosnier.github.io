@@ -7,4 +7,10 @@ categories: News
 
 Hi there, my name is Thibault. I'm an engineer with advanced qualifications in the field of materials physics and science. I'm currently working at CEA LETI research facility in Grenoble (France) where I conduct a PhD on III-Nitrides (III-N) power devices. My research is focused mainly on the engineering of mechanical stress fields in AlGaN/GaN High Electron Mobility Transistors (HEMTs).
 
-This brand new website is intended to host an interactive version of my resume as well as articles on differents topics (technology, books, etc.). Stay tuned.
+This brand new website should embrace several purposes :
+
+* hosting my resume (interactive html version and .pdf version) 
+* showcasing some of my projects
+* writing articles on topics that matters to me
+
+Stay tuned.
