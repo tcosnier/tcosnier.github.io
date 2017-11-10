@@ -1,3 +1,5 @@
---
-title: Learn how to host your personal website on GitHub pages
---
+---
+layout: post
+title:  "How to host your personnal website freely on GitHub Pages"
+categories: dev
+---
