@@ -13,6 +13,8 @@ about: 'about.html'
                 </a>
             {% endif %}
         <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+        {% if page.about %}<a class="button" href="{{ site.baseurl }}{{ page.about }}">About me</a>{% endif %}
+        
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
@@ -20,7 +22,7 @@ about: 'about.html'
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }} {% endif %}
                 <br/>
-                {% if page.about %} <a style="color:#FFF;" href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                <!--{% if page.about %} <a style="color:#FFF;" href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}-->
             </h2>
         </div>
         
