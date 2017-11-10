@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tcosnier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tcosnier.github.io
+  * I am tcosnier (https://keybase.io/tcosnier) on keybase.
+  * I have a public key ASDNc_a-zcD6y9vd2wnYZPpjArCyL6UB356sHPVajOHyCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cd73f6becdc0facbdbdddb09d864fa6302b0b22fa501df9eac1cf55a8ce1f2090a",
+      "host": "keybase.io",
+      "kid": "0120cd73f6becdc0facbdbdddb09d864fa6302b0b22fa501df9eac1cf55a8ce1f2090a",
+      "uid": "60ea2377e55332e61c38745f3a82a119",
+      "username": "tcosnier"
+    },
+    "merkle_root": {
+      "ctime": 1510357311,
+      "hash": "7334612ae5e1fb9003e97e2fe227ddb3a07f53c641bd67a01ab8b763ba44ce4c2250526ea9f0afe1f22dcfcd7fef23998ce88fe3c7cb877eadf49cf04429a64b",
+      "hash_meta": "07f879277830604f1df9b0f9d40f33874204ce8f12a94751134fe24a38a8cb92",
+      "seqno": 1692137
+    },
+    "service": {
+      "hostname": "tcosnier.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510357372,
+  "expire_in": 504576000,
+  "prev": "50910e59ad1137de47eb022c72569e5353a49332c1e7145b5cb0f1f1232e366c",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzXP2vs3A+svb3dsJ2GT6YwKwsi+lAd+erBz1Wozh8gkKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2Q3M2Y2YmVjZGMwZmFjYmRiZGRkYjA5ZDg2NGZhNjMwMmIwYjIyZmE1MDFkZjllYWMxY2Y1NWE4Y2UxZjIwOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2Q3M2Y2YmVjZGMwZmFjYmRiZGRkYjA5ZDg2NGZhNjMwMmIwYjIyZmE1MDFkZjllYWMxY2Y1NWE4Y2UxZjIwOTBhIiwidWlkIjoiNjBlYTIzNzdlNTUzMzJlNjFjMzg3NDVmM2E4MmExMTkiLCJ1c2VybmFtZSI6InRjb3NuaWVyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwMzU3MzExLCJoYXNoIjoiNzMzNDYxMmFlNWUxZmI5MDAzZTk3ZTJmZTIyN2RkYjNhMDdmNTNjNjQxYmQ2N2EwMWFiOGI3NjNiYTQ0Y2U0YzIyNTA1MjZlYTlmMGFmZTFmMjJkY2ZjZDdmZWYyMzk5OGNlODhmZTNjN2NiODc3ZWFkZjQ5Y2YwNDQyOWE2NGIiLCJoYXNoX21ldGEiOiIwN2Y4NzkyNzc4MzA2MDRmMWRmOWIwZjlkNDBmMzM4NzQyMDRjZThmMTJhOTQ3NTExMzRmZTI0YTM4YThjYjkyIiwic2Vxbm8iOjE2OTIxMzd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoidGNvc25pZXIuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MTAzNTczNzIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNTA5MTBlNTlhZDExMzdkZTQ3ZWIwMjJjNzI1NjllNTM1M2E0OTMzMmMxZTcxNDViNWNiMGYxZjEyMzJlMzY2YyIsInNlcW5vIjo3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLhUkTErOjPywh4r7ZzKNs1L/ZxFV+Ft9Jli0qeWc7Df7A973YnR07U+BpuQz8xLDAAWH6apXaseIO8vAJrlGgmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAcp8hM0rPvmZr9chWRLi7pVUl/KXCJTsS+q2fxabjPfaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tcosnier
+
+==================================================================
