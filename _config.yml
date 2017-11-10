@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: 'http://tcosnier.github.io/'
 domain_name: 'http://tcosnier.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-109498578-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
