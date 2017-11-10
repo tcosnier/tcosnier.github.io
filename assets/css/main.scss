@@ -9,11 +9,6 @@
 	display:inline;
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-	"syntax"
-;
-
 /// Makes an element's :before pseudoelement a FontAwesome icon.
 /// @param {string} $content Optional content value to use.
 @mixin icon($content: false) {
@@ -132,3 +127,7 @@ ul {
 			color: gray !important;
 		}
 
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+	"syntax"
+;
