@@ -39,8 +39,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ##### June 2013 - August 2013
 ###### Molecular Dynamics Simulation of Polyamide Blends
 
-*  **Exposing structure-property relationships in PA66/PA6I copolymer blends** using molecular dynamics and ab-initio simulations (tools: [Gromacs](www.gromacs.org/), Python)
-* Usage of a high performance computing cluster, shell scripts, parallel computing.
+*  **Exposing structure-property relationships in PA66/PA6I blends** using molecular dynamics and ab-initio simulations (tools: [Gromacs](www.gromacs.org/), Python).
+* Usage of a high performance computing cluster, shell scripts, bash, parallel computing.
 <hr>
 
 # Education
