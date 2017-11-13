@@ -7,8 +7,7 @@ title: Resume
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
 **Mechanical stress engineering in AlGaN/GaN HEMTs**
-
-Quisque fermentum diam nibh. Praesent vitae mauris interdum, luctus nibh vitae, sollicitudin ante. Aliquam in arcu et leo aliquet varius. Sed faucibus sed ipsum a malesuada. Nunc vitae semper mi. Maecenas lobortis hendrerit lectus quis dapibus. Vestibulum volutpat neque ut sem maximus laoreet. Curabitur ut fermentum libero, tristique tempus est. Suspendisse potenti.
+<br/>Que fermentum diam nibh. Praesent vitae mauris interdum, luctus nibh vitae, sollicitudin ante. Aliquam in arcu et leo aliquet varius.
 
 * TCAD modeling
 * Design of experiments
