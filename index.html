@@ -3,6 +3,8 @@ layout: default
 title: Home
 cover: 'assets/images/bg1_.jpg'
 about: 'about.html'
+resume: 'resume.html'
+contact: 'contact.html'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -12,8 +14,9 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
-        {% if page.about %}<a style="margin-right:15px;" class="subscribe-button" href="{{ site.baseurl }}{{ page.about }}">Resume</a>{% endif %}
+        <!--<a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>-->
+        {% if page.contact %}<a class="subscribe-button" href="{{ site.baseurl }}{{ page.about }}">Contact</a>{% endif %}
+        {% if page.resume %}<a style="margin-right:15px;" class="subscribe-button" href="{{ site.baseurl }}{{ page.resume }}">Resume</a>{% endif %}
         
     </nav>
     <div class="vertical">
