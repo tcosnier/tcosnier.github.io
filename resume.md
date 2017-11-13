@@ -6,7 +6,7 @@ title: Resume
 
 ### PhD Candidate, [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
-* **Mechanical stress engineering in AlGaN/GaN HEMTs**
+**Mechanical stress engineering in AlGaN/GaN HEMTs**
 * TCAD modeling
 * Design of experiments
 
@@ -19,7 +19,7 @@ title: Resume
 
 ### Research Assistant, [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
-**Study of photonic crystals for biosensing applicationsN **
+**Study of photonic crystals for biosensing applications**
 * Modeling of the devices using open-source FDTD tools
 * Device fabrication in clean room environment
 * Optimical characterization of processed devices.
