@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 
 * **Implementation and comparison of analytical models** (code: Matlab).
 * **Mechanical modeling** of the elastic relaxation of SiGe on Si substrate and analysis of complex stress fields in sub-11 nm CMOS devices using finite element method (code: ANSYS).
-* **Atomistic modeling** of the relaxation of SiGe on Si substrate (code: LAMMPS).
+* **Atomistic modeling** of the relaxation of SiGe on Si (code: [LAMMPS](http://lammps.sandia.gov/)).
 <hr>
 
 ### Research Assistant @ [INL-CNRS](http://inl.cnrs.fr/)
