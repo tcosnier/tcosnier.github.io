@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 
 ### Research Assistant @ [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
-###### Medeling and Fabrication of Photonic Crystals for Biosensing Applications
+###### Study of Photonic Crystals for Biosensing Applications
 
 * Modeling of the devices using open-source FDTD tools
 * Device fabrication in clean room environment
