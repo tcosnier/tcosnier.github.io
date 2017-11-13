@@ -35,6 +35,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 * Optimical characterization of processed devices.
 <hr>
 
+### Research Assistant @ [Solvay](https://www.solvay.fr/)
+##### June 2013 - August 2013
+###### Molecular Dynamics Simulation of Polyamide Blends
+
+*  **Exposing structure-property relationships in PA66/PA6I copolymer blends** using molecular dynamics and ab-initio simulations (tools: [Gromacs](www.gromacs.org/), Python)
+* Usage of a high performance computing cluster, shell scripts, parallel computing.
+<hr>
+
 # Education
 
 ### Materials Science Engineering @ [INSA Lyon](https://www.insa-lyon.fr/)
