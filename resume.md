@@ -10,14 +10,14 @@ title: Resume
 * TCAD modeling
 * Design of experiments
 
-### Research Assistance, [CEA LETI](http://www.leti-cea.com/)
+### Research Assistant, [CEA LETI](http://www.leti-cea.com/)
 ##### April 2014 - September 2014
 **Mechanical modeling of hetero-epitaxial growth for sub-11 nm CMOS devices**
 * Review and comparison of analytical models (code: Python)
 * Finite element modeling (code: ANSYS)
 * atomistic modeling approaches (code: LAMPPS)
 
-### Research Assistance, [INL-CNRS](http://inl.cnrs.fr/)
+### Research Assistant, [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
 **Study of photonic crystals for biosensing applicationsN **
 * Modeling of the devices using open-source FDTD tools
