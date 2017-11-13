@@ -21,18 +21,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ##### April 2014 - September 2014
 ###### Mechanical Modeling of Heteroepitaxy for Sub-11 nm CMOS Devices
 
-* Implementation and comparison of analytical models (code: Python)
-* Mechanical modeling using finite element method (code: ANSYS)
-* Study of atomistic modeling approaches (code: LAMMPS)
+* **Implementation and comparison of analytical models** (code: Matlab, Python)
+* **Mechanical modeling** of the elastic relaxation of SiGe on Si substrate and of advanced stress fields in sub-11 nm CMOS devices  using finite element method (code: ANSYS)
+* **Atomistic modeling** of the elastic relaxation of SiGe on Si substrate (code: LAMMPS)
 <hr>
 
 ### Research Assistant @ [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
 ###### Development of Photonic Crystals for Biosensing Applications
 
-* Modeling of the devices using open-source FDTD tools
-* Device fabrication in clean room environment
-* Optimical characterization of processed devices.
+* **Numerical modeling** of the devices using open-source FDTD tools
+* **Device fabrication** in clean room environment
+* **Optical characterization** of processed devices.
 <hr>
 
 ### Research Assistant @ [Solvay](https://www.solvay.fr/)
