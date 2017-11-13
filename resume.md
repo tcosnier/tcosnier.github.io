@@ -6,8 +6,8 @@ title: Resume
 
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
-**Mechanical stress engineering in AlGaN/GaN HEMTs**
-<br/>Que fermentum diam nibh. Praesent vitae mauris interdum, luctus nibh vitae, sollicitudin ante. Aliquam in arcu et leo aliquet varius.
+###### Mechanical stress engineering in AlGaN/GaN HEMTs
+Que fermentum diam nibh. Praesent vitae mauris interdum, luctus nibh vitae, sollicitudin ante. Aliquam in arcu et leo aliquet varius.
 
 * TCAD modeling
 * Design of experiments
@@ -19,7 +19,7 @@ title: Resume
 **Mechanical modeling of hetero-epitaxial growth for sub-11 nm CMOS devices**
 * Review and comparison of analytical models (code: Python)
 * Finite element modeling (code: ANSYS)
-* Atomistic modeling approaches (code: LAMPPS)
+* Atomistic modeling approaches (code: LAMMPS)
 
 <br>
 
