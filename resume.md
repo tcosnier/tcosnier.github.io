@@ -12,9 +12,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ###### Mechanical Stress Engineering in AlGaN/GaN HEMTs
 
 * **Coding of 1D Schrödinger-Poisson tool in Python** for the modeling of III-N materials and devices, including advanced polarization effects.
-* **TCAD simulation** of AlGaN/GaN HEMTs to study local stress on device characteristics: 2D process and device simulation (tools: [Synopsys Sentaurus](https://www.synopsys.com/silicon/tcad.html).
+* **TCAD simulation of AlGaN/GaN HEMTs** to study local stress effects on device characteristics: 2D process and device simulation (tools: [Synopsys](https://www.synopsys.com/silicon/tcad.html)).
 * **Fabrication of GaN-on-Si HEMTs in a 200 mm CMOS fab** (process flow development, mask layout design).
-* Electrical characterization of processed wafers, analysis and comparison with simulation results.
+* ** Electrical characterization and analysis** of processed wafers. Comparison with simulation results.
 <hr>
 
 ### Research Assistant @ [CEA LETI](http://www.leti-cea.com/)
