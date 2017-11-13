@@ -6,7 +6,6 @@ title: Resume
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus, eu interdum urna. Praesent pharetra nulla eget mauris porta, et commodo magna egestas. Donec molestie pellentesque viverra. Duis finibus arcu et urna fermentum, auctor fringilla ligula volutpat. Mauris vestibulum tempus felis et accumsan. Pellentesque vitae efficitur sem. Fusce vehicula metus vitae lacinia efficitur. Nulla convallis neque eget volutpat elementum.
 
 # Experience
-<hr>
 
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
@@ -33,7 +32,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 <hr>
 
 # Education
-<hr>
 
 ### Materials Science Engineering @ [INSA Lyon](https://www.insa-lyon.fr/)
 ##### 2009-2015
