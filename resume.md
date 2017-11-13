@@ -10,6 +10,7 @@ title: Resume
 * TCAD modeling
 * Design of experiments
 
+<br>
 
 ### Research Assistant @ [CEA LETI](http://www.leti-cea.com/)
 ##### April 2014 - September 2014
@@ -18,6 +19,7 @@ title: Resume
 * Finite element modeling (code: ANSYS)
 * Atomistic modeling approaches (code: LAMPPS)
 
+<br>
 
 ### Research Assistant @ [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
@@ -25,6 +27,7 @@ title: Resume
 * Modeling of the devices using open-source FDTD tools
 * Device fabrication in clean room environment
 * Optimical characterization of processed devices.
+
 <br>
 
 ## Education
