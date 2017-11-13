@@ -10,7 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
 ###### Mechanical stress engineering in AlGaN/GaN HEMTs
-<br>
 
 * Coding of 1D Schrödinger-Poisson tool in Python for the modeling of III-N materials and devices
 * Study of the local impact of mechanical stress on device characteristics using [Synopsys TCAD tools](https://www.synopsys.com/silicon/tcad.html): 2D process simulation and device simulation
