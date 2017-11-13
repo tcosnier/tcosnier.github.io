@@ -22,7 +22,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ###### Mechanical Modeling of Heteroepitaxy for Sub-11 nm CMOS Devices
 
 * **Implementation and comparison of analytical models** (code: Matlab)
-* **Mechanical modeling** of the elastic relaxation of SiGe on Si substrate and of stress fields in sub-11 nm CMOS devices using finite element method (code: ANSYS)
+* **Mechanical modeling** of the elastic relaxation of SiGe on Si substrate and analysis of complex stress fields in sub-11 nm CMOS devices using finite element method (code: ANSYS)
 * **Atomistic modeling** of the relaxation of SiGe on Si substrate (code: LAMMPS)
 <hr>
 
