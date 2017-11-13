@@ -10,22 +10,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
 ##### January 2015 - January 2018
 ###### Mechanical stress engineering in AlGaN/GaN HEMTs
+<br>
 
-* TCAD modeling
-* Design of experiments
+* Conception of a 1D Schrödinger-Poisson tool in Python for the modeling of III-N materials and devices
+* Study of the local impact of mechanical stress on device characteristics using [Synopsys TCAD tools](https://www.synopsys.com/silicon/tcad.html): 2D process simulation and device simulation
+* Process flow and mask layout design
+* Fabrication GaN-on-Si HEMTs in a 200 mm CMOS fab to assess the effect of stressed films
+* Electrical characterization of processed wafers, analysis and comparison with simulation results
 <hr>
 
 ### Research Assistant @ [CEA LETI](http://www.leti-cea.com/)
 ##### April 2014 - September 2014
 ###### Mechanical modeling of heteroepitaxy for sub-11 nm CMOS devices
-* Review and comparison of analytical models (code: Python)
-* Finite element modeling (code: ANSYS)
-* Atomistic modeling approaches (code: LAMMPS)
+<br>
+
+* Implementation and comparison of analytical models (code: Python)
+* Mechanical modeling using finite element method (code: ANSYS)
+* Study of atomistic modeling approaches (code: LAMMPS)
 <hr>
 
 ### Research Assistant @ [INL-CNRS](http://inl.cnrs.fr/)
 ##### September 2013 - March 2014
 ###### Study of photonic crystals for biosensing applications
+<br>
+
 * Modeling of the devices using open-source FDTD tools
 * Device fabrication in clean room environment
 * Optimical characterization of processed devices.
