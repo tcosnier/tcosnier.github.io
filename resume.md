@@ -2,6 +2,9 @@
 layout: page
 title: Resume
 ---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu porta purus, eu interdum urna. Praesent pharetra nulla eget mauris porta, et commodo magna egestas. Donec molestie pellentesque viverra. Duis finibus arcu et urna fermentum, auctor fringilla ligula volutpat. Mauris vestibulum tempus felis et accumsan. Pellentesque vitae efficitur sem. Fusce vehicula metus vitae lacinia efficitur. Nulla convallis neque eget volutpat elementum.
+
 ## Experience
 <hr/>
 ### PhD Candidate @ [CEA LETI](http://www.leti-cea.com/)
@@ -11,7 +14,7 @@ title: Resume
 * TCAD modeling
 * Design of experiments
 
-
+<hr/>
 ### Research Assistant @ [CEA LETI](http://www.leti-cea.com/)
 ##### April 2014 - September 2014
 ###### Mechanical modeling of hetero-epitaxial growth for sub-11 nm CMOS devices
