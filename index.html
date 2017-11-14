@@ -15,7 +15,7 @@ contact: 'contact.html'
                 </a>
             {% endif %}
         <!--<a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>-->
-        {% if page.contact %}<a class="subscribe-button" href="{{ site.baseurl }}{{ page.contact }}">Contact</a>{% endif %}
+        {% if page.contact %}<a class="subscribe-button" href="{{ page.contact | relative_url }}">Contact</a>{% endif %}
         {% if page.resume %}<a style="margin-right:15px;" class="subscribe-button" href="{{ site.baseurl }}{{ page.resume }}">Resume</a>{% endif %}
         
     </nav>
@@ -28,6 +28,8 @@ contact: 'contact.html'
                 <!--{% if page.about %} <a style="color:#FFF;" href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}-->
             </h2>
         </div>
+        
+        change OK
         
         <ul class="icons">
             <li>
