@@ -10,7 +10,9 @@ paginate: 15
 baseurl: 'http://tcosnier.github.io/'
 domain_name: 'http://tcosnier.github.io'
 google_analytics: 'UA-109498578-1'
-gems: [jekyll-paginate, jekyll-seo-tag]
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Details for the RSS feed generator
 url:            'http://tcosnier.github.io'
