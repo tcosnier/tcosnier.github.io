@@ -7,7 +7,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: 'http://tcosnier.github.io/'
+baseurl: '/'
 domain_name: 'http://tcosnier.github.io'
 google_analytics: 'UA-109498578-1'
 plugins:
