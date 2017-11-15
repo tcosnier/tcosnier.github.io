@@ -1,5 +1,9 @@
-name: Thibault Cosnier
+title: Thibault Cosnier
 description: Materials Science Engineer. PhD Candidate @ <a style="color:#FFF;" href="http://www.leti-cea.com/cea-tech/leti/english" target="_blank">CEA LETI</a>.
+url: 'http://tcosnier.github.io'
+author: 'Thibault Cosnier'
+
+name: Thibault Cosnier
 meta_title: "Thibault Cosnier - Materials Science Engineer. PhD Candidate."
 meta_description: "Hi there, my name is Thibault. I'm an engineer with key qualifications in semiconductor physics, devices and modeling. "
 
@@ -13,10 +17,6 @@ google_analytics: 'UA-109498578-1'
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Details for the RSS feed generator
-url: 'http://tcosnier.github.io'
-author: 'Thibault Cosnier'
 
 twitter:
   username: ThibaultCosnier
